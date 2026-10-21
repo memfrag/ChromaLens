@@ -15,7 +15,7 @@ set -euo pipefail
 # -----------------------------------------------------------------------------
 
 # --- Constants ---
-SCHEME="ChromaLens"
+SCHEME="ChromaLens (Release)"
 APP_NAME="ChromaLens"
 KEYCHAIN_PROFILE="notary"
 SPARKLE_VERSION="2.9.1"
@@ -29,7 +29,7 @@ SPARKLE_TOOLS_DIR="$PROJECT_DIR/Sparkle-tools"
 ARCHIVE_PATH="$BUILD_DIR/$APP_NAME.xcarchive"
 EXPORT_DIR="$BUILD_DIR/export"
 EXPORT_OPTIONS="$SCRIPT_DIR/ExportOptions.plist"
-INFO_PLIST="$PROJECT_DIR/$APP_NAME/Info.plist"
+INFO_PLIST="$PROJECT_DIR/$APP_NAME/macOS/Info.plist"
 PBXPROJ="$PROJECT_DIR/$APP_NAME.xcodeproj/project.pbxproj"
 
 # --- Helpers ---
