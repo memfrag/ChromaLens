@@ -52,7 +52,9 @@ struct ShortcutsSettingsTab: View {
     }
 }
 
+#if DEBUG
 #Preview {
     ShortcutsSettingsTab()
         .previewEnvironment()
 }
+#endif
