@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ChromaLens</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 21 Oct 2026 23:13:02 +0200</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/memfrag/ChromaLens/releases/download/1.0.0/ChromaLens-1.0.0.dmg" length="7622840" type="application/octet-stream" sparkle:edSignature="x7RRScq4oZBLpcRLugFye/hdlosKgsooKlTsSnUqoBiDPsLAIYgpQ6wDGmrusnu1W58Two+qbsZmJSrAT8ZyCw=="/>
+        </item>
+    </channel>
+</rss>
